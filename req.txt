@@ -1,0 +1,4 @@
+librosa
+tensorflow 
+"fastapi[standard]"
+tflite-runtime
