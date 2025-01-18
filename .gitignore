@@ -3,3 +3,4 @@ data/
 NAYA_DATA_AUG1X/
 *.h5
 *.keras
+*.wav
